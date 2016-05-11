@@ -1,7 +1,7 @@
 # TypeScript Mouse_Tracker
 
 
-# An Animated Mouse Tracker (TypeScript)
+An Animated Mouse Tracker (TypeScript)
 
 
 ~ Open Index File
